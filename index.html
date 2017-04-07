@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: page
+title : 文章
+header : 所有文章
+group: navigation
 ---
+{% include JB/setup %}
 
-<div class="main-post-list hidden">
-
-  <ol class="post-list">
+<div class="post-list">
     {% for post in paginator.posts %}
     <li>
       <h2 class="post-list__post-title post-title"><a href="{{ site.baseurl }}{{ post.url }}" title="访问 {{ post.title }}">{{ post.title }}</a></h2>
@@ -27,8 +29,6 @@ layout: default
       <hr class="post-list__divider" />
     </li>
     {% endfor %}
-  </ol>
-
-  {% include pagination.html %}
-
 </div>
+
+
