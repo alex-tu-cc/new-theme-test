@@ -6,7 +6,7 @@ description: test .....
 avatarTitle: leopardpan
 # 头像里面的描述
 avatarDesc: iOS / 机器学习
-url: "http://alex-tu-cc.github.io"
+url: "http://alex-tu-cc.github.io/new-theme-test"
 baseurl: "/new-theme-test"
 
 # Comment
@@ -66,6 +66,6 @@ nav:
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
-paginate_path: "/new-theme-test/page/:num/"
+#paginate_path: "/new-theme-test/page/:num/"
 
 
