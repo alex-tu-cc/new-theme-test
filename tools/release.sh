@@ -8,7 +8,6 @@ usage: $0 options
 
     -h|--help print this message
     --remote  set the remote target
-    
 EOF
 exit 1
 }
@@ -38,8 +37,7 @@ git push $REMOTE backbone
 # push posts
 git push $REMOTE posts
 # gh_pages merge backbone, then merge posts
-git branch tmp gh-pages
-git checkout tmp
+git checkout gh-pages
 git merge --no-ff $REMOTE/backbone
 git merge --no-ff $REMOTE/posts
 git push $REMOTE gh-pages
