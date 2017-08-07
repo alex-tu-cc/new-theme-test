@@ -42,7 +42,8 @@ date: "2017-08-01 21:31"
 目前最划算的就是 SIM2FLY sim card 了。
   * 目前整個京版神的免費公眾無線網路wifi分佈還滿廣的，所以我覺得買限量的方案就夠了。
     * 京都我搭到的公車站有wifi
-  * 記得關掉 google photo 自動備份的功能，另外推薦安裝 [maps.me][]離線地图，還可以路徑規畫，
+  * 記得關掉 google photo 自動備份的功能.
+  * 另外推薦安裝 [maps.me][]離線地图，還可以路徑規畫，
   在網路不好的地方，還可以找到路，而且還可以匯入我的地图簡直神。
 
 * 卡及優惠:
@@ -89,7 +90,7 @@ date: "2017-08-01 21:31"
   * 展示中心的等比例模型作工真細，還有模擬當時架放橋柱的移動模型，真的可以動耶，日本模型真的很了不起。
   * 橋上的地板是铁網舖的，往下看可以直接看到明石海峽，真的會有腳軟的感覺....
   * 橋上禁止拿出沒有繩子套在頭上的電子產品，另外會發一個放手機的套子讓你可以掛在脖子上。
-
+  * 下面這張照片是在橋柱的上方拍的
 ![明石大橋]({{ site.baseurl }}/images/2017/08/明石大橋.jpg)
 
 * [鳴門漩渦](https://zh.wikipedia.org/wiki/%E9%B3%B4%E9%96%80%E6%BC%A9%E6%B8%A6)
@@ -100,17 +101,31 @@ date: "2017-08-01 21:31"
 
 ![漩渦]({{ site.baseurl }}/images/2017/08/漩渦.jpg)
 
-
+### 貴船神社 及 𩣑馬寺
+* 其實原本的計畫跟大家一樣從𩣑馬寺走到貴船神社，但是因為睡太晚就直接去貴船神社吃㳘水麵了。
+  * 那邊的㳘水麵看起來只有一家，可能是因為那家才有小瀑布吧~
+  * 我們大約12:00 左右到，要等兩個小時，付錢之後給你一個有寫號碼的扇子就可以去其他地方走動殺時間了。
+  * 麵大約有十幾丸丟下來，每丸剛好一口，我跟老婆都覺得有飽，但去過的同事說不飽，所以就是看個人囉~
+  * 因為有5根管子，所以一次可以五組一起吃，同一組的人共用一個管子。
+* 貴船神社走到𩣑馬寺，大約花了我們不到一個小時的時間 (邊走邊拍照)
+ * 入山要收一個入山費好像是 300 日元還附一張地图。
+ * 不會很累，大約就跟台北象山一樣。
+![魔王殿]({{ site.baseurl }}/images/2017/08/魔王殿.jpg)
 
 ### 祗园祭
+* 現在京都買all day pass 真的非常簡單，到處都買得到了
+![京都 all day pass]({{ site.baseurl }}/images/2017/08/kyoto_bus_all_day_pass.jpg)
+
 * 有交通管制，計畫公車路線太復雜了，所以我們就直接走路過去。早上約7:50到還滿多位子的，但8點多就差不多滿了。
   * 沒有那麼早起過，約8點多的時後所有的蟬一起開唱，我才知道原來蟬不是天一亮就開始叫呀...
 
 ![bus]({{ site.baseurl }}/images/2017/08/P70724-073524.jpg)
 
 * 等了兩個小時10點才開始祭典，所以最好先上個廁所，當天我們是在四條河原町等，Disney 對面的0101百貨地下一樓的超市有開，旁邊剛好有廁所
-  * []順便分享有網友制作的京阪找廁所網站](https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiXq6vB9bjVAhULHJQKHTgNDkAQFggyMAE&url=https%3A%2F%2Fwww.kocpc.com.tw%2Farchives%2F61951&usg=AFQjCNGBIiYboBb5efgRsaj0wcMoRj8tZQ)
+  * [順便分享有網友制作的京阪找廁所網站](https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiXq6vB9bjVAhULHJQKHTgNDkAQFggyMAE&url=https%3A%2F%2Fwww.kocpc.com.tw%2Farchives%2F61951&usg=AFQjCNGBIiYboBb5efgRsaj0wcMoRj8tZQ)
   * [已經有好多人在google map 上分享祭典的照片了呢..](https://www.google.com.tw/maps/place/%E5%9B%9B%E6%A2%9D%E6%B2%B3%E5%8E%9F%E7%94%BA/@35.0037,135.7693,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNBFKXwT4nzRglrlObLeNOP29gfojNG_QUwjkge!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNBFKXwT4nzRglrlObLeNOP29gfojNG_QUwjkge%3Dw203-h152-k-no!7i3264!8i2448!4m5!3m4!1s0x600108956d85f6eb:0xeeddd823a692bb44!8m2!3d35.0044866!4d135.769182?hl=zh-TW)
+* 山鉾轉彎真的很有趣，在轉的時後站在山鉾上面的人員會拿扇子像跳舞一樣地指揮，而且好像只能拉三次，看每台車都只拉三次。
+*
 
 # To Be Continued...
 
