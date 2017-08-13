@@ -125,7 +125,19 @@ date: "2017-08-01 21:31"
   * [順便分享有網友制作的京阪找廁所網站](https://www.google.com.tw/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwiXq6vB9bjVAhULHJQKHTgNDkAQFggyMAE&url=https%3A%2F%2Fwww.kocpc.com.tw%2Farchives%2F61951&usg=AFQjCNGBIiYboBb5efgRsaj0wcMoRj8tZQ)
   * [已經有好多人在google map 上分享祭典的照片了呢..](https://www.google.com.tw/maps/place/%E5%9B%9B%E6%A2%9D%E6%B2%B3%E5%8E%9F%E7%94%BA/@35.0037,135.7693,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipNBFKXwT4nzRglrlObLeNOP29gfojNG_QUwjkge!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNBFKXwT4nzRglrlObLeNOP29gfojNG_QUwjkge%3Dw203-h152-k-no!7i3264!8i2448!4m5!3m4!1s0x600108956d85f6eb:0xeeddd823a692bb44!8m2!3d35.0044866!4d135.769182?hl=zh-TW)
 * 山鉾轉彎真的很有趣，在轉的時後站在山鉾上面的人員會拿扇子像跳舞一樣地指揮，而且好像只能拉三次，看每台車都只拉三次。
-*
+* 後祭前幾天有幾座山鉾會停在地图上畫的地方給大家參觀，可以買門票進去看哦，下面這張是大船鉾的下方
+![大船下面.jpg]({{ site.baseurl }}/images/2017/08/大船下面.jpg)
+
+![煎餅機.mp4]({{ site.baseurl }}/images/2017/08/煎餅機.mp4)
+### 京都其他
+* 京都的金券店規則搞不懂
+![金券店.jpg]({{ site.baseurl }}/images/2017/08/金券店.jpg)
+![便利商店的珍奶]({{ site.baseurl }}/images/2017/08/便利商店的珍奶.jpg)
+![美山.jpg]({{ site.baseurl }}/images/2017/08/美山.jpg)
+![屋台買冰.jpg]({{ site.baseurl }}/images/2017/08/屋台買冰.jpg)
+![屋台買冰.jpg]({{ site.baseurl }}/images/2017/08/屋台買冰.jpg)
+![屋台買冰.jpg]({{ site.baseurl }}/images/2017/08/屋台買冰.jpg)
+![屋台買冰.jpg]({{ site.baseurl }}/images/2017/08/屋台買冰.jpg)
 
 # To Be Continued...
 
